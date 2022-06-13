@@ -1,8 +1,8 @@
 ### 0.¹ÙÍøµØÖ·
-1. ¹ÙÍøµØÖ·
-Ó¢ÎÄ£ºhttp://www.redis.io/  
+1. ¹ÙÍøµØÖ·  
+Ó¢ÎÄ£ºhttp://www.redis.io/   
 
-ÖÐÎÄ£ºhttp://www.redis.cn/  
+ÖÐÎÄ£ºhttp://www.redis.cn/   
 
 ### 1.¸ÅÀÀ
 RedisÓÐÒÔÏÂÕâÎåÖÖ»ù±¾ÀàÐÍ£º
@@ -126,8 +126,8 @@ setµÄµ×²ãÎªÁËÊµÏÖÄÚ´æµÄ½ÚÔ¼£¬»á¸ù¾Ý¼¯ºÏµÄÀàÐÍ¶ø²ÉÓÃ²»Í¬µÄÊý¾Ý½á¹¹À´±£´æ£¬µ±¼¯ºÏµ
 
 2. µ×²ãÄÚ²¿±àÂë£ºziplist£¨Ñ¹ËõÁÐ±í£©¡¢skiplist£¨ÌøÔ¾±í£©
 
-![zset´æ´¢½á¹¹](/Í¼Æ¬/zset´æ´¢½á¹¹.png)
-![Ìø±í](/Í¼Æ¬/Ìø±í.png)
+![zset´æ´¢½á¹¹](/Í¼Æ¬/zset´æ´¢½á¹¹.png)  
+![Ìø±í](/Í¼Æ¬/Ìø±í.png)  
 3. Ó¦ÓÃ³¡¾°£ºÅÅÐÐ°ñ£¬Éç½»ÐèÇó£¨ÈçÓÃ»§µãÔÞ£©£¬ÈÈµã»°Ìâ¡£
 
 - ÌøÔ¾±íÊÇRedisÌØÓÐµÄÊý¾Ý½á¹¹£¬¾ÍÊÇÔÚÁ´±íµÄ»ù´¡ÉÏ£¬Ôö¼Ó¶à¼¶Ë÷ÒýÌáÉý²éÕÒÐ§ÂÊ¡£
